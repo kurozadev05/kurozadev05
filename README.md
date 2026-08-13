@@ -6,16 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 B.Tech CSE Student
-- 📱 Learning **Android Development with Kotlin**
-- 🤖 Interested in **AI, LLMs, Systems, and Security**
-- 🐧 Daily Linux user
-- 💡 Building projects and improving every day
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
