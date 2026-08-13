@@ -44,7 +44,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=kurozadev05&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 ## 📫 Connect
 
-- 🌐 GitHub: https://github.com/YOUR_USERNAME
+- 🌐 GitHub: https://github.com/kurozadev05
 
 ---
 
