@@ -1,4 +1,4 @@
-```text
+
                                       _   __,----'~~~~~~~~~`-----.__
                                    .  .    `//====-_             ___,-' `
                    -.            \_|// .   /||\\  `~~~~`---.___./
@@ -17,7 +17,6 @@
                                 __-^-_    `)  \-.______________,-~'
                               //,-'~~`__--^-  |-------~~~~~'
                                       //,--~~`-\
-```
 
 ## Hi, I'm Devesh Kumar 👋
 
@@ -27,7 +26,6 @@ I'm interested in building software across **Android, AI, systems, security, and
 
 ### ⚡ Current Focus
 
-* 📱 Android Development — Kotlin & Jetpack Compose
 * 🤖 AI / LLM Engineering
 * 🧠 Systems Programming
 * 🐧 Linux
@@ -41,9 +39,3 @@ I'm interested in building software across **Android, AI, systems, security, and
 ### 🚀 Building
 
 I'm focused on turning ideas into **real, usable engineering projects** rather than just tutorials.
-
----
-
-<p align="center">
-  <b>Build. Break. Learn. Repeat.</b>
-</p>
